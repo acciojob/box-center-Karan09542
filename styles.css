@@ -4,11 +4,14 @@ div {
 	transform: translate(-50%, -50%);
 	left: 50%;
 	top: 50%;
-	place-content: center;
-	text-align:center;
 	width: 200px;
 	height: 200px;
 	background-color: lightblue;
 	border: 2px solid black;
 	color: purple;
+}
+p  {
+	margin:0;
+	line-height: 200px;
+	text-align: center;
 }
